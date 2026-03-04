@@ -1,0 +1,7 @@
+{
+  "name": "VivahVandana - Event & Wedding Services Marketplace",
+  "description": "A comprehensive platform for booking wedding services including pandals, catering, lodges, and more. Features vendor registration, admin approval workflows, and secure bookings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
